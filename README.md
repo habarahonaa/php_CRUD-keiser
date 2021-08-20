@@ -1,9 +1,9 @@
 <h1>Operaciones CRUD</h1>
 
-**C**reate
-**R**ead
-**U**pdate
-**D**elete
+**C**reate<br>
+**R**ead<br>
+**U**pdate<br>
+**D**elete<br>
 
 Las Operaciones CRUD son las 4 operaciones basicas en almacenamiento permanente. Términos alternativos son usados a veces cuando se definen las cuatro funciones básicas de CRUD, como “recuperar” en vez de “leer”, “modificar” en vez de “actualizar” o “destruir” en vez de “borrar”.
 
